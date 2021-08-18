@@ -1,6 +1,7 @@
 DualDisplay_T4
 ======
 **With this example two displays with ILI9341 controller (320x240px) can be connected to a Teensy 4.x.**
+
 Copyright (C) 2021 by DIYLAB <https://www.diylab.de>
 
 By using the library [ILI9341_T4](https://github.com/vindar/ILI9341_T4), you can draw very fast even with low SPI clock. In the example the clock is 30MHz. Depending on the display up to 70MHz are possible.
