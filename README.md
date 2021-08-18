@@ -11,6 +11,8 @@ The example includes some simple functions for primitive drawing. You can of cou
 
 [![Watch the video](https://img.youtube.com/vi/rRclqaJjLkI/0.jpg)](https://youtu.be/rRclqaJjLkI)
 
+### Test setup
+
 ![](screenshots/2xili9341_teensy41.jpg)
 
 ### These components are required as a minimum
