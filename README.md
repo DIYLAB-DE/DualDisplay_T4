@@ -58,7 +58,7 @@ Many other displays are also possible if they have the required connectors, have
 
 ### Used libraries
 
-1. Optimized ILI9341 screen driver library for Teensy 4/4.1, with vsync and differential updates: <https://github.com/vindar/ILI9341_T4>
+1. Arvind's optimized ILI9341 screen driver library for Teensy 4/4.1, with vsync and differential updates: <https://github.com/vindar/ILI9341_T4>
 
 ### Used development software
 
