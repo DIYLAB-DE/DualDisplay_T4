@@ -22,10 +22,9 @@ The example includes some simple functions for primitive drawing. You can of cou
 * Two TFT displays with ILI9341 controller and a resolution of 320x240 px
 
 [3.2inch SPI Module ILI9341 SKU:MSP3218](http://www.lcdwiki.com/3.2inch_SPI_Module_ILI9341_SKU:MSP3218)
-
 [2.8inch SPI Module ILI9341 SKU:MSP2807](http://www.lcdwiki.com/2.8inch_SPI_Module_ILI9341_SKU:MSP2807)
-
 [2.4inch SPI Module ILI9341 SKU:MSP2402](http://www.lcdwiki.com/2.4inch_SPI_Module_ILI9341_SKU:MSP2402)
+[2.2inch SPI Module ILI9341 SKU:MSP2202](http://www.lcdwiki.com/2.2inch_SPI_Module_ILI9341_SKU:MSP2202)
 
 Many other displays are also possible if they have the required connectors, have the ILI9341 controller and a resolution of 320x240 px.
 
