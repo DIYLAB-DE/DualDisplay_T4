@@ -7,6 +7,8 @@ By using the library [ILI9341_T4](https://github.com/vindar/ILI9341_T4), you can
 Framebuffer, differential buffer and a vertical synchronization are available to you. The result is completely flicker-free at 100FPS.
 The example includes some simple functions for primitive drawing. You can of course use any graphics library that supports a framebuffer directly. I recommend Arvind's TGX library: https://github.com/vindar/tgx 
 
+### Watch the video
+
 [![Watch the video](https://img.youtube.com/vi/rRclqaJjLkI/0.jpg)](https://youtu.be/rRclqaJjLkI)
 
 ![](screenshots/2xili9341_teensy41.jpg)
